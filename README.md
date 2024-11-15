@@ -11,6 +11,10 @@
  </div>
 
 #### Este é um sistema de listagem de tarefas desenvolvido em Node.js, que utiliza Docker com Postgres e Prisma para a conexão com o banco de dados, utilizando o padrão MVC.
+<div align="center">
+  <h4><a href="https://github.com/anapaulasanto/todo-list/tree/main">Clique para visitar o frontend do projeto</a></h4>
+</div>
+
 
 ## ✏️ Instruções de instalação
 1. Clone este repositório para o seu computador.
