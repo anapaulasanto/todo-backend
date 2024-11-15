@@ -14,7 +14,7 @@
 
 ## ✏️ Instruções de instalação
 1. Clone este repositório para o seu computador.
-2. Instale as dependencias necessárias (node, express, cors, docker, prisma)
+2. Instale as dependencias necessárias (node, express, cors, docker, prisma, nodemon)
 
 ## 📝 Como iniciar o sistema
 Para iniciar o sistema de todo, execute o seguinte comando no terminal:
